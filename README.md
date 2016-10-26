@@ -8,10 +8,10 @@ Iamasse
 Lucas
 */
 
-#include <stdio.h> // A biblioteca stdio contem as funções printf e scanf
-#include <stdlib.h> // A biblioteca stdlib funciona como um emulador do prompt do windows
-#include <string.h> // A biblioteca string.h funciona para a manipulação das strings.
-#include <conio.h> // A biblioteca Conio, disponibiliza funções para a manipulação da tela, assim 
+#include <stdio.h>
+#include <stdlib.h> 
+#include <string.h> 
+#include <conio.h>
 
 struct dados_aluno{
        char cpf[12], nome[51];
