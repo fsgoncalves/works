@@ -8,10 +8,10 @@ Iamasse
 Lucas
 */
 
-#include <stdio.h>
-#include <stdlib.h> 
-#include <string.h> 
-#include <conio.h>
+#include stdio.h
+#include stdlib.h 
+#include string.h 
+#include conio.h
 
 struct dados_aluno{
        char cpf[12], nome[51];
